@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I'm a developer who’s always curious and driven by the thrill of continuous learning! Each day is an opportunity to explore new ideas, dive into new technologies, and push the boundaries of what I know. I love tackling complex problems, building solutions that make an impact, and contributing to the tech community.
+I'm a Data Science graduate from Technological Institute of the Philippines, who’s always curious and driven by the thrill of continuous learning! I'm a developer and each day is an opportunity to explore new ideas, dive into new technologies, and push the boundaries of what I know. I love tackling complex problems, building solutions that make an impact, and contributing to the tech community.
 
 - 🌱 I’m constantly expanding my skills.
 - 👯 I’m open to collaborating on innovative projects.
