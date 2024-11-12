@@ -20,8 +20,8 @@ I'm a Data Science graduate from Technological Institute of the Philippines, who
 [![Coursera](https://img.shields.io/badge/Coursera-0066CC?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/eb8ba271c18f6fef5ade54f173c694ed)
 [![Freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Rieka)
 [![Datacamp](https://img.shields.io/badge/Datacamp-%2303EF62?style=for-the-badge&logo=Datacamp&logoColor=%2303EF62&labelColor=black)](https://www.datacamp.com/portfolio/YvetteMed)
-[![Alison](https://img.shields.io/badge/Alison-005AA7?style=for-the-badge&logo=alison&logoColor=white)](https://alison.com/profile/24838667/preview)
-[![W3Schools](https://img.shields.io/badge/W3Schools-4F4F4F?style=for-the-badge&logo=w3c&logoColor=white)](https://www.w3profile.com/yvette-medrano)
+[![Alison](https://img.shields.io/badge/Alison-FFC0CB?style=for-the-badge&logo=alison&logoColor=000000)](https://alison.com/profile/24838667/preview)
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3c&logoColor=FFFFFF)](https://www.w3profile.com/yvette-medrano)
 
 ## 📈 My Tech Stack
 
@@ -52,7 +52,8 @@ I'm a Data Science graduate from Technological Institute of the Philippines, who
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/yvette-medrano/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=carrd&logoColor=white)](https://yvettes-portfolio.carrd.co)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D2B48C?style=for-the-badge&logo=carrd&logoColor=FFFFFF)](https://yvettes-portfolio.carrd.co)
+
 
 
 Let’s connect, share knowledge, and keep growing! 🌟
