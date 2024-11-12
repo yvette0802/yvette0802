@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yvette-medrano/)
 - [Blog/Portfolio](your-portfolio-url)
-- [![Datacamp](https://img.shields.io/badge/Datacamp-white?style=for-the-badge&logoColor=hsl(144.15,97.52%,47.45%)&link=https://www.datacamp.com/portfolio/YvetteMed)](https://www.datacamp.com/portfolio/YvetteMed)
+- [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge)](https://www.datacamp.com/portfolio/YvetteMed)
 
 Let’s connect, share knowledge, and keep growing! 🌟
