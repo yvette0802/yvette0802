@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - **Interests**: [Software Development,Web Development, Mobile App Development, and UI Designing]
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yvette-medrano/)
-- [Blog/Portfolio](your-portfolio-url)
-- ![Static Badge](https://img.shields.io/badge/datacamp-%2303EF62?style=for-the-badge&logo=datacamp&logoColor=%2303EF62&labelColor=black&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2FYvetteMed)
+[LinkedIn](https://www.linkedin.com/in/yvette-medrano/)
+[Blog/Portfolio](your-portfolio-url)
+[![Datacamp](https://img.shields.io/badge/Datacamp-%2303EF62?style=for-the-badge&logo=Datacamp&logoColor=%2303EF62&labelColor=black)]((https://www.datacamp.com/portfolio/YvetteMed))
 
 Let’s connect, share knowledge, and keep growing! 🌟
