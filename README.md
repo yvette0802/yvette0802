@@ -8,6 +8,13 @@ I'm a developer who’s always curious and driven by the thrill of continuous le
 - 📝 I enjoy documenting my learning journey to help others on similar paths.
 - 💬 Ask me about Notion
 
+### 🧩 Interest
+
+- Software Development
+- Web Development
+- Mobile App Development
+- UI Designing
+
 ## 📈 My Tech Stack
 
 ### Languages
@@ -34,12 +41,7 @@ I'm a developer who’s always curious and driven by the thrill of continuous le
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292F?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
 
-### 🧩 Interest
 
-- Software Development
-- Web Development
-- Mobile App Development
-- UI Designing
 
 ## 📖 Learning
 [![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-0051A5?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
@@ -53,4 +55,6 @@ I'm a developer who’s always curious and driven by the thrill of continuous le
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/yvette-medrano/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=carrd&logoColor=white)](https://yvettes-portfolio.carrd.co)
+
+
 Let’s connect, share knowledge, and keep growing! 🌟
