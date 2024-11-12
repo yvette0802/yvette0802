@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 [Blog/Portfolio](your-portfolio-url)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge)](https://www.datacamp.com/portfolio/YvetteMed)
 
-
 Let’s connect, share knowledge, and keep growing! 🌟
