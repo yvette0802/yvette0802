@@ -16,7 +16,7 @@ I'm a Data Science graduate from Technological Institute of the Philippines, who
 - UI Designing
 
 ## 📖 Learning
-[![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-0051A5?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
+[![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-D3D3D3?style=for-the-badge&logo=ibm&logoColor=0051A5)](https://skillsbuild.org/)
 [![Coursera](https://img.shields.io/badge/Coursera-0066CC?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/eb8ba271c18f6fef5ade54f173c694ed)
 [![Freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Rieka)
 [![Datacamp](https://img.shields.io/badge/Datacamp-%2303EF62?style=for-the-badge&logo=Datacamp&logoColor=%2303EF62&labelColor=black)](https://www.datacamp.com/portfolio/YvetteMed)
